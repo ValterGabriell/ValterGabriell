@@ -24,6 +24,6 @@
 
 ![ValterGabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=ValterGabriell&show_icons=true&theme=radical)
 
-[![ValterGabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=ValterGabriell)](https://github.com/ValterGabriell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValterGabriell&layout=compact)](https://github.com/ValterGabriell/github-readme-stats)
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
