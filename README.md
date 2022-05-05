@@ -1,5 +1,5 @@
 # ValterGabriel
-<h1 align="center">Olá 👋, eu sou Valter Gabriel</h1>
+<h1 align="center">Eu sou Valter Gabriel</h1>
 <h3 align="center">Backend Developer and Android Developer</h3>
 
 - 🔭 Atualmente trabalhando na **Sea Telecom**
