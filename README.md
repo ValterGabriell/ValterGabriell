@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalhando na **Sea Telecom**
 
-- 🌱 Estou aprendendo atualmente **Spring Boot, Java Backend, PostgreSQL, Kotlin Backend**
+- 🌱 Estou aprendendo atualmente **React Native, JavaScript, Spring Boot, PostgreSQL, Kotlin Backend**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Android, Filmes, Vídeo Games e Futebol**
 
