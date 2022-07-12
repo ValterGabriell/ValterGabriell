@@ -2,9 +2,9 @@
 <h1 align="center">Eu sou Valter Gabriel</h1>
 <h3 align="center">Backend Developer and Android Developer</h3>
 
-- 🔭 Atualmente trabalhando na **Sea Telecom**
+- 🔭 Atualmente trabalhando no projeto **Devs Pai Dégua**
 
-- 🌱 Estou aprendendo atualmente **React Native, JavaScript, Spring Boot, PostgreSQL, Kotlin Backend**
+- 🌱 Estou aprendendo atualmente **React Native, JavaScript**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Android, Filmes, Vídeo Games e Futebol**
 
