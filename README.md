@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalhando no projeto **Devs Pai Dégua**
 
-- 🌱 Estou aprendendo atualmente **React Native, JavaScript**
+- 🌱 Estou aprendendo atualmente **React Native, JavaScript, Node.JS, Express e Flutter**
 
 - 💬 Pergunte-me sobre **Desenvolvimento Android, Filmes, Vídeo Games e Futebol**
 
