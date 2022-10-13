@@ -14,9 +14,9 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/valter-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valter-gabriel" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_v.gab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_v.gab/" height="30 " width="40" /></a>
-<a href="https://medium.com/@gabrielbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabrielbri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valter-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valter-gabriel" height="45" width="45" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_v.gab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_v.gab/" height="45" width="45" /></a>
+<a href="https://medium.com/@gabrielbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabrielbri" height="45" width="45" /></a>
 </p>
 
 <br>
