@@ -2,11 +2,11 @@
 <h1 align="center">I'm Valter Gabriel</h1>
 <h3 align="center">Mobile & Backend Developer</h3>
 
-- 🔭 Currently working on the project **Devs Pai Dégua**
+- 🔭 Last work on the project **Devs Pai Dégua**
 
-- 🌱 **React Native, JavaScript, Node.JS, Express, Android Kotlin, Spring Boot Java**
+- 🌱 **Android Kotlin, Spring Boot Java | Kotlin**
 
-- 💬 Ask me about **Android Development, Movies, Video Games and Football**
+- 💬 Ask me about **Android Development, Spring Boot, Kotlin, Java Movies, Video Games and Football**
 
 - 📫 How to contact me **vgabrielbri@hotmail.com**
 
