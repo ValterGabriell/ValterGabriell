@@ -45,3 +45,9 @@
   </table>
 </div>
 
+<div align="center"><br>
+
+  ![Snake animation](https://github.com/ValterGabriell/ValterGabriell/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
