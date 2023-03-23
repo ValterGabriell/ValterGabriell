@@ -44,10 +44,10 @@
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValterGabriell&theme=github_dark"/></td></tr>
   </table>
 </div>
-
+  
 <div align="center"><br>
 
-  ![Snake animation](https://github.com/Torugo99/ValterGabriell/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ValterGabriell/ValterGabriell/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
