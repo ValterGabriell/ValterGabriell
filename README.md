@@ -2,7 +2,7 @@
 
 - 👩‍💻 Desenvolvedor Back-End.
 - 👨‍🎓 Graduando em Engenharia da Computação.
-- 🎨 Experiência com Desenvolvimento Backend com Spring Framework e Java, Desenvolvimento Mobile Android com Kotlin e híbrido com React Native e Javascript, além de possuir conhecimentos em Desenvolvimento Backend com NodeJS, e frameworks de front end como ReactJS, VueJS e Angular.
+- 🎨 Experiência com Desenvolvimento Backend com Spring Framework e Java, Desenvolvimento Backend com NodeJS com Express e NestJs, além de conhecimentos em desenvolvimento Mobile Android com Kotlin e híbrido com React Native e Javascript e possuo conhecimentos em frameworks de front end como ReactJS, VueJS e Angular.
 - 🎮 Criador de conteúdos no Youtube.
 - 👷‍♂️ Atualmente estou procurando trabalho com: ```Java | Kotlin | Spring ```
 
