@@ -1,10 +1,10 @@
-# 👋 Olá, chamo Valter Gabriel!
+# 👋 Hello, I'm Valter Gabriel!
 
-- 👩‍💻 Desenvolvedor Back-End.
-- 👨‍🎓 Graduando em Engenharia da Computação.
-- 🎨 Experiência com Desenvolvimento Backend com Spring Framework e Java e NodeJS com NestJs, além de conhecimentos em desenvolvimento Mobile Android com Kotlin e híbrido com React Native e Javascript e possuo conhecimentos em frameworks de front end como ReactJS, VueJS e Angular.
-- 🎮 Criador de conteúdos no Youtube.
-- 👷‍♂️ Atualmente estou procurando trabalho com: ```Java | Kotlin | Spring Framework ```
+- 👩‍💻 Back-End Developer.
+- 👨‍🎓 Graduating in Computer Engineering.
+- 🎨 Experience with Backend Development with Spring Framework and Java and NodeJS with NestJs, in addition to knowledge in Mobile Android development with Kotlin and hybrid with React Native and Javascript and I have knowledge in front end frameworks such as ReactJS, VueJS and Angular.
+- 🎮 Content creator on Youtube.
+- 👷‍♂️ I am currently looking for work with: ```Java | Kotlin | Spring Framework ```
 
 <div align="center"><br>
   <a href="https://github.com/ValterGabriell">
@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br> 
-  <h2> Minhas redes sociais: </h2>
+  <h2> Social medias: </h2>
     <a href="https://www.youtube.com/@devgaguejante_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/_v.gab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/valter-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
