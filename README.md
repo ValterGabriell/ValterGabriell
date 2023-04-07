@@ -2,9 +2,9 @@
 
 - 👩‍💻 Back-End Developer.
 - 👨‍🎓 Graduating in Computer Engineering.
-- 🎨 Experience with Backend Development with Spring Framework and Java and NodeJS with NestJs, in addition to knowledge in Mobile Android development with Kotlin and hybrid with React Native and Javascript and I have knowledge in front end frameworks such as ReactJS, VueJS and Angular.
+- 🎨 Experience with Backend Development with Spring Framework and Java, in addition to knowledge in Mobile Android development with Kotlin and hybrid with React Native and Javascript and I am accutaly studying about Angular.
 - 🎮 Content creator on Youtube.
-- 👷‍♂️ I am currently looking for work with: ```Java | Kotlin | Spring Framework ```
+- 👷‍♂️ I am currently looking for work with: ```Java | Kotlin | Spring Boot ```
 
 
 <div style="display: inline_block"><br> 
