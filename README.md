@@ -2,6 +2,7 @@
 
 - 🧑‍🎓 Computer Engineer student at Universidade Federal do Pará; 
 - 👨‍💻 Backend/Mobile Developer
+- 👨‍💻 OutSystems Developer
 - 📝 Currently getting deeper in Jetpack Compose, Android Development, Kotlin, Spring Boot and Java;
 - 📫 Email: valtregabrielbs13@gmail.com
 - 📞 Contact (Telegram and WhatsApp): (91) 98612-3187
