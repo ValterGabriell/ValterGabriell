@@ -1,8 +1,7 @@
 <h1 align="center">~Hi there, i'm Valter Gabriel!</h1>
 
 - 🧑‍🎓 Computer Engineer student at Universidade Federal do Pará; 
-- 👨‍💻 Backend/Mobile Developer
-- 👨‍💻 OutSystems Developer
+- 👨‍💻 Backend Developer
 - 📝 Currently getting deeper in Spring Boot and Java;
 - 📫 Email: valtregabrielbs13@gmail.com
 - 📞 Contact (Telegram and WhatsApp): (91) 98612-3187
