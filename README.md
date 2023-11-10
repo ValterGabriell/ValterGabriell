@@ -1,32 +1,39 @@
-<h1 align="center">~Hi there, i'm Valter Gabriel!</h1>
+<h1 align="center">~Faaala, meu nome é Valter Gabriel!</h1>
 
-- 🧑‍🎓 Computer Engineer student at Universidade Federal do Pará; 
-- 👨‍💻 Backend Developer
-- 📝 Currently getting deeper in Spring Boot and Java;
+- 🧑‍🎓 Estudante de Engenharia da Computação pela UFPA; 
+- 👨‍💻 Desenvolvedor Backend Java
+- 📝 Foco atual: Me aprofundando sobre Design Patterns e Arquitetura de Projetos;
 - 📫 Email: valtregabrielbs13@gmail.com
-- 📞 Contact (Telegram and WhatsApp): (91) 98612-3187
+- 📞 Telegram e WhatsApp: (91) 98612-3187
 
-### ⚙️ Technologies and tools
- <div style="display: inline_block">
-      <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img alling="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-   <img alling="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-</div>
+### ⚙️ Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,git,github,androidstudio,react)](https://skillicons.dev)
 <br>
 
-### 🌐 Connect with me
+No meu Github tenho projetos focados em backend utilizando:
+-Java
+-Spring Boot
+-Spring Cloud
+-Microsservicos
+-Lógica de Programação 
+-Design Patterns
+
+Além de projetos mobile com:
+-Kotlin
+-Android Studio
+-JavaScript
+-React Native
+
+### 🌐 Meu Linkedin
 <div>
   <a href="https://www.linkedin.com/in/valter-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
 
-### 📈 Stats
+### 📈 Status
 <details>
-  <summary>Dropdown</summary>
+  <summary>Ckique aqui!</summary>
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValterGabriell&theme=tokyonight) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValterGabriell&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoonMarion&theme=tokyonight&utcOffset=8) 
