@@ -10,19 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,git,github,androidstudio,react)](https://skillicons.dev)
 <br>
 
-No meu Github tenho projetos focados em backend utilizando:
--Java
--Spring Boot
--Spring Cloud
--Microsservicos
--Lógica de Programação 
--Design Patterns
+No meu Github tenho projetos focados em backend utilizando: <br>
+`Java; Spring Boot; Spring Cloud; Microsservicos; Lógica de Programação; Design Patterns `
 
-Além de projetos mobile com:
--Kotlin
--Android Studio
--JavaScript
--React Native
+Além de projetos mobile com: <br>
+`Kotlin; Android Studio; JavaScript; React Native`
 
 ### 🌐 Meu Linkedin
 <div>
