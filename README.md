@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Estudante de Engenharia da Computação pela UFPA; 
 - 👨‍💻 Desenvolvedor Backend Java
-- 📝 Foco atual: Me aprofundando sobre Design Patterns e Arquitetura de Projetos;
+- 📝 Foco atual: Estudando C# e .NET;
 - 📫 Email: valtregabrielbs13@gmail.com
 - 📞 Telegram e WhatsApp: (91) 98612-3187
 
