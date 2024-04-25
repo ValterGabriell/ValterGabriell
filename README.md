@@ -4,7 +4,6 @@
 - 👨‍💻 Desenvolvedor Backend Java
 - 📝 Foco atual: Estudando C# e .NET;
 - 📫 Email: valtregabrielbs13@gmail.com
-- 📞 Telegram e WhatsApp: (91) 98612-3187
 
 ### ⚙️ Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,git,github,androidstudio,react)](https://skillicons.dev)
