@@ -1,8 +1,6 @@
 <h1 align="center">~Faaala, meu nome é Valter Gabriel!</h1>
 
-- 🧑‍🎓 Estudante de Engenharia da Computação pela UFPA; 
-- 👨‍💻 Desenvolvedor Backend Java
-- 📝 Foco atual: Estudando C# e .NET;
+- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento React Native com Expo e Outsystems.
 - 📫 Email: valtregabrielbs13@gmail.com
 
 ### ⚙️ Tecnologias
