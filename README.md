@@ -1,17 +1,11 @@
 <h1 align="center">Valter Gabriel</h1>
 
-- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento React Native com Expo e Outsystems.
+- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento Mobile com React Native (Typescript) e Android (Java,Kotlin)  com Expo e Outsystems.
 - 📫 Email: valtregabrielbs13@gmail.com
 
 ### ⚙️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,git,github,androidstudio,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,react,typescript)](https://skillicons.dev)
 <br>
-
-No meu Github tenho projetos focados em backend utilizando: <br>
-`Java; Spring Boot; Spring Cloud; Microsservicos; Lógica de Programação; Design Patterns `
-
-Além de projetos mobile com: <br>
-`Kotlin; Android Studio; JavaScript; React Native`
 
 ### 🌐 Meu Linkedin
 <div>
