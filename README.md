@@ -1,7 +1,7 @@
 <h1 align="center">Valter Gabriel</h1>
 
 - 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento Mobile com React Native (Typescript) e Android (Java,Kotlin)  com Expo e Outsystems.
-- 📫 Email: valtregabrielbs13@gmail.com
+- 📫 Email: valtergabrielbs13@gmail.com
 
 ### ⚙️ Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,react,typescript)](https://skillicons.dev)
