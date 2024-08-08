@@ -1,4 +1,4 @@
-<h1 align="center">~Faaala, meu nome é Valter Gabriel!</h1>
+<h1 align="center">Valter Gabriel</h1>
 
 - 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento React Native com Expo e Outsystems.
 - 📫 Email: valtregabrielbs13@gmail.com
