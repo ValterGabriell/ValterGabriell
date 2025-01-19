@@ -1,8 +1,5 @@
 <h1 align="center">Valter Gabriel</h1>
--  Meu histórico de commit está quase todo em meu outro Github, pois uso ele para commitar para os projetos dessa conta -> https://github.com/valtecsgabriel
-
-
-- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend Java, Desenvolvimento Mobile com React Native (Typescript) e Android (Java,Kotlin)  com Expo e Outsystems.
+- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend C# e .NET, Java e Spring, Desenvolvimento Mobile com React Native (Typescript) e Android (Java,Kotlin)  com Expo e Outsystems.
 - 📫 Email: valtergabrielbs13@gmail.com
 
 ### ⚙️ Tecnologias
