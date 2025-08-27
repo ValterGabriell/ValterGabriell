@@ -1,5 +1,7 @@
 <h1 align="center">Valter Gabriel</h1>
-- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend C#/.NET e conhecimentos em Java/Spring Boot.
+
+- 👨‍💻 Desenvolvedor de Software com experiência em Desenvolvimento Backend C#/.NET e conhecimentos em Java/Spring Boot
+
 - 📫 Email: valtergabrielbs13@gmail.com
 
 ### 🌐 Meu Linkedin
