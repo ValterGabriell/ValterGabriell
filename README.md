@@ -7,10 +7,17 @@
 - 🎮 Game Dev as Hobbie.
 
 <div align="center"><br>
-  <a href="https://github.com/ValterGabriell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValterGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValterGabriell&layout=compact&langs_count=7&theme=dark"/>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValterGabriell&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValterGabriell&theme=dark"/></td></tr>
+  </table>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValterGabriell&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValterGabriell&theme=dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValterGabriell&theme=dark"/></td></tr>
+  </table>
 </div>
+
   
 <div style="display: inline_block"><br> 
   <h2> My social networks: </h2>
@@ -22,14 +29,3 @@
   
 >
 
-<div align="center"><br>
-  <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValterGabriell&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValterGabriell&theme=dark"/></td></tr>
-  </table>
-  <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValterGabriell&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValterGabriell&theme=dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValterGabriell&theme=dark"/></td></tr>
-  </table>
-</div>
